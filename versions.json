@@ -1,0 +1,77 @@
+{
+  "updated": "2026-10-24",
+  "resources": {
+    "vorty-core": {
+      "label": "vorty-core",
+      "version": "1.0.0",
+      "date": "2026-10-24",
+      "changes": [
+        "First release: update checker for every vorty.dev resource"
+      ],
+      "download": "https://github.com/vortyys/vorty-updates"
+    },
+    "vorty-cherry": {
+      "label": "CHERRY Phone & Tablet",
+      "version": "1.7.0",
+      "date": "2026-10-24",
+      "changes": [
+        "Current release"
+      ],
+      "download": "https://portal.cfx.re/assets/granted-assets"
+    },
+    "vorty-dispatch": {
+      "label": "vorty Dispatch",
+      "version": "2.1.0",
+      "date": "2026-10-24",
+      "changes": [
+        "Current release"
+      ],
+      "download": "https://portal.cfx.re/assets/granted-assets"
+    },
+    "vorty-mdt": {
+      "label": "vorty MDT",
+      "version": "2.1.0",
+      "date": "2026-10-24",
+      "changes": [
+        "Current release"
+      ],
+      "download": "https://portal.cfx.re/assets/granted-assets"
+    },
+    "vorty-hud": {
+      "label": "vorty HUD",
+      "version": "1.2.0",
+      "date": "2026-10-24",
+      "changes": [
+        "Current release"
+      ],
+      "download": "https://portal.cfx.re/assets/granted-assets"
+    },
+    "vorty-loading": {
+      "label": "vorty Loading Screen",
+      "version": "1.3.0",
+      "date": "2026-10-24",
+      "changes": [
+        "Current release"
+      ],
+      "download": "https://portal.cfx.re/assets/granted-assets"
+    },
+    "vorty-minigames": {
+      "label": "vorty Minigames",
+      "version": "1.7.0",
+      "date": "2026-10-24",
+      "changes": [
+        "Current release"
+      ],
+      "download": "https://portal.cfx.re/assets/granted-assets"
+    },
+    "vorty-cop-karistirma": {
+      "label": "vorty Cop Karistirma",
+      "version": "1.2.0",
+      "date": "2026-10-24",
+      "changes": [
+        "Current release"
+      ],
+      "download": "https://portal.cfx.re/assets/granted-assets"
+    }
+  }
+}
